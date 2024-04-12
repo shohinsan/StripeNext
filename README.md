@@ -1,6 +1,6 @@
 # Overview
 
-Goal of this repository is not about framework or ui, but rather learning how to connect Stripe via webhooks and implementing checkout, cancel functionality as well as implementing subscription and metered payments
+Goal of this repository is not about framework or ui, but rather learning how to connect Stripe via webhooks and implementing checkout, cancel functionality as well as subscription and metered payments
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
